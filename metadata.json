@@ -1,0 +1,8 @@
+{
+  "name": "Billetera Personal",
+  "description": "Control integral de gastos, ingresos, gastos recurrentes mensuales y gestión de deudas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
